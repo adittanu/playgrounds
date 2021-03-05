@@ -1,6 +1,7 @@
 body {
   margin: 0;
   background: red;
+  font-size: 0.7rem;
   font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
     "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
 }
